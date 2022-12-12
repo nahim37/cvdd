@@ -1,0 +1,103 @@
+/*général*/ 
+
+/*.first 
+{
+	margin-top: 25px;
+	text-align: center;
+	background-color: green;
+
+}*/
+h{
+ 	color:grey;
+ 	font-size: 2em;
+ 	font-family: cocoprose;
+ 	font-weight: bold;
+ 	text-align: center;
+ 	
+}
+
+/*
+a:link{
+	color:blue
+}
+a:hover{
+	color:yellow
+}
+a:visited{
+	color:green
+}*/
+
+.div{background-color:#bfd00176;
+	width:600px;
+	height:950px;
+	border-style:solid;
+	border-width: 4px;
+	border-color: grey;
+	margin: 10px 350px 300px 350px;
+	padding-left: 20px;
+	padding-top: 20px;
+	border-radius: 20px;
+	
+
+
+
+}
+.second
+{
+	display: flex;
+	justify-content: space-around;
+
+}
+.second h{
+	padding-top: 50px;
+}
+
+#image{
+	width: 100px;
+	height: 150px;
+
+}
+
+.label1{padding-left: 0px;
+
+}
+#buttom {
+	background-color:grey;
+	margin:10px 250px;
+	padding: 7px 20px;
+	border-radius: 10px;
+	border:none;
+	
+}
+/*a:hover{
+	color: brown;
+
+}
+a:visited{
+	color: yellow;
+}*/
+
+#buttom:hover 
+{
+	background-color:yellowgreen;
+
+}
+
+#buttom:visited
+{
+	background-color:green;
+}
+
+
+/* cette partie du site est codé par @IDRISSOU Nahim.
+ actuellement étudiant en formation (maitrise des langages html,css,python)*/
+
+
+
+
+
+
+
+
+
+

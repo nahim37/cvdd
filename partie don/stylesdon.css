@@ -1,0 +1,135 @@
+.div1{
+    
+   
+
+
+}
+.div2{
+    margin: 10px 450px 10px 400px;
+    background-color:#217fc3;
+    border-style: solid;
+    border-width: 5pxpx;
+    border-radius: 20px;
+    border-color: rgb(83, 95, 155);
+    padding-left: 15px;
+    width: 750px;
+    height: 2000px;
+   
+
+    
+    
+
+
+}
+.div3{
+     display: flex;
+     justify-content:space-around;
+     
+
+}
+#h12{
+    padding-top: 20px;
+}
+#image1{
+    width:20;
+    height: 150px;
+}
+#buttom
+
+{
+    margin:50px 300px;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    background-color:rgb(77, 71, 199);
+
+
+
+
+
+}
+
+#buttom:hover
+{ background-color:#669900;
+
+}
+#buttom:link
+{background-color:rgb(77, 71, 199);
+
+}
+#mon1
+
+{
+    width: 450px;
+    height: 300px;
+    border-radius: 30px;
+
+}
+
+#eco
+
+{
+    width:500px;
+    height: 300px;
+    border-radius: 20px;
+
+
+
+}
+.divm
+
+{
+    display:flex;
+    justify-content: space-around;
+    
+    
+
+
+}
+.dive
+
+{
+    display: flex;
+    justify-content: space-around;
+   
+    
+
+
+}
+.para1
+
+{
+    padding: 30px 75px;
+
+
+}
+
+.para2
+
+{
+  padding: 30px 75px;
+
+}
+
+.para3
+
+{
+  margin: 30px 200px;
+
+}
+/*#divmomo
+
+{
+    margin-right:20px;
+
+
+}
+#divbank
+
+{
+  margin-right: 20px;
+
+
+}*/
+
+
